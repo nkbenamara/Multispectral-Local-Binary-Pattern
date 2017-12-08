@@ -1,3 +1,4 @@
+import numpy as np 
 
 def thresholded(center, pixels):
     out = []
