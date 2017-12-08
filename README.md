@@ -22,3 +22,4 @@ input your two images to get the MSLBP image I and histogram h
 [I,h]=MSLBP(I1,I2)
 ```
 
+Paper reference : OMRI, Faten et FOUFOU, Sebti. A novel image texture fusion scheme for improving multispectral face recognition. In : Signal-Image Technology and Internet-Based Systems (SITIS), 2014 Tenth International Conference on. IEEE, 2014. p. 43-48.
